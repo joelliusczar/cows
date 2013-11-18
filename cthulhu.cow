@@ -1,0 +1,16 @@
+#cthulhu
+#based on the ascii art that was found here: http://www.asciiflow.com/#23256636957666822
+$eye = chop($eyes);
+$the_cow = << "EOC"
+         ^       $thoughts                 ^
+        / \\       $thoughts               / \\
+       /   \\--\\    _______    /--/   \\
+      /   /  / \\--/__   __\\--/ \\ \\    \\
+     /   /  /    /  $eye   $eye  \\    \\ \\    \\
+    / /----  ----\\_|||||||_/----  ----\\ \\
+    \\/     \\/   /  //||||\\\\ \\   \\/     \\/
+               /  // |||| \\\\ \\
+              /  ||  ||\\\\ ||  \\
+             /   ||  // \\\\     \\
+             \\      //  //     /
+EOC
